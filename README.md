@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Sankey Diagram</title>
-</head>
-<body>
-    <h1>Intracranial Volume Sankey Diagram</h1>
-    <iframe src="sankey_diagram.html" width="100%" height="600px"></iframe>
-</body>
-</html>
+
